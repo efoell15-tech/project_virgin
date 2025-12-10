@@ -1,0 +1,20 @@
+===Database toko_sembako
+
+== Table structure for table bahan_baku
+
+|------
+|Column|Type|Null|Default
+|------
+|//**id_bahan_baku**//|int(11)|No|
+|nama_bahan_baku|varchar(50)|No|
+|Harga_(Rp)|decimal(10,0)|No|
+|Stok_(unit)|int(11)|No|
+== Dumping data for table bahan_baku
+
+|1|Tepung terigu protein tinggi|13|250
+|2|Minyak kelapa murni (VCO)|45|80
+|3|Tepung terigu protein tinggi|13|250
+|4|Minyak kelapa murni (VCO)|45|80
+|5|Gula aren bubuk organik|38|120
+|6|Telur ayam omega-3|3|500
+|7|Ragi instan kering|8|300
